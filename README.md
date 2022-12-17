@@ -27,5 +27,5 @@
 <p align="center">
 <a href="https://instagram.com/alpox.dev">
 <a href="https://www.instagram.com/____hun2/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/____hun2/"/>&nbsp
-<a href="https://automatic-headphones-829.notion.site/4d3b9a89bac245e680fbdac03bcbcafd"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white&link=https://automatic-headphones-829.notion.site/4d3b9a89bac245e680fbdac03bcbcafd"/>
+<a href="https://automatic-headphones-829.notion.site/Resume-c8f7686ef9b64af88ca3dd40468a9b83"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white&link=https://automatic-headphones-829.notion.site/Resume-c8f7686ef9b64af88ca3dd40468a9b83"/>
 </p>
